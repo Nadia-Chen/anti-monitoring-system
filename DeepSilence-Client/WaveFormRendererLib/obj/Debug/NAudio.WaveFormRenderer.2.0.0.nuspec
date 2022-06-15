@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NAudio.WaveFormRenderer</id>
+    <version>2.0.0</version>
+    <authors>Mark Heath</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/naudio/NAudio.WaveFormRenderer</projectUrl>
+    <description>WaveForm rendering component</description>
+    <copyright>© Mark Heath 2021</copyright>
+    <tags>C# .NET audio sound</tags>
+    <repository url="https://github.com/naudio/NAudio.WaveFormRenderer" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="NAudio.Core" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="5.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\virtualaudiocable\NAudio.WaveFormRenderer-master\WaveFormRendererLib\bin\Debug\netstandard2.0\NAudio.WaveFormRenderer.dll" target="lib\netstandard2.0\NAudio.WaveFormRenderer.dll" />
+  </files>
+</package>

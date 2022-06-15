@@ -1,0 +1,9 @@
+D:\virtualaudiocable\NAudio.WaveFormRenderer-master\WaveFormRendererLib\bin\Debug\netstandard2.0\NAudio.WaveFormRenderer.deps.json
+D:\virtualaudiocable\NAudio.WaveFormRenderer-master\WaveFormRendererLib\bin\Debug\netstandard2.0\NAudio.WaveFormRenderer.dll
+D:\virtualaudiocable\NAudio.WaveFormRenderer-master\WaveFormRendererLib\bin\Debug\netstandard2.0\NAudio.WaveFormRenderer.pdb
+D:\virtualaudiocable\NAudio.WaveFormRenderer-master\WaveFormRendererLib\obj\Debug\netstandard2.0\WaveFormRendererLib.csprojAssemblyReference.cache
+D:\virtualaudiocable\NAudio.WaveFormRenderer-master\WaveFormRendererLib\obj\Debug\netstandard2.0\WaveFormRendererLib.AssemblyInfoInputs.cache
+D:\virtualaudiocable\NAudio.WaveFormRenderer-master\WaveFormRendererLib\obj\Debug\netstandard2.0\WaveFormRendererLib.AssemblyInfo.cs
+D:\virtualaudiocable\NAudio.WaveFormRenderer-master\WaveFormRendererLib\obj\Debug\netstandard2.0\WaveFormRendererLib.csproj.CoreCompileInputs.cache
+D:\virtualaudiocable\NAudio.WaveFormRenderer-master\WaveFormRendererLib\obj\Debug\netstandard2.0\NAudio.WaveFormRenderer.dll
+D:\virtualaudiocable\NAudio.WaveFormRenderer-master\WaveFormRendererLib\obj\Debug\netstandard2.0\NAudio.WaveFormRenderer.pdb

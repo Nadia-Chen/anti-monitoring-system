@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\virtualaudiocable\\NAudio.WaveFormRenderer-master\\WaveFormRendererLib\\WaveFormRendererLib.csproj": {}
+  },
+  "projects": {
+    "D:\\virtualaudiocable\\NAudio.WaveFormRenderer-master\\WaveFormRendererLib\\WaveFormRendererLib.csproj": {
+      "version": "2.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\virtualaudiocable\\NAudio.WaveFormRenderer-master\\WaveFormRendererLib\\WaveFormRendererLib.csproj",
+        "projectName": "NAudio.WaveFormRenderer",
+        "projectPath": "D:\\virtualaudiocable\\NAudio.WaveFormRenderer-master\\WaveFormRendererLib\\WaveFormRendererLib.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "D:\\virtualaudiocable\\NAudio.WaveFormRenderer-master\\WaveFormRendererLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\DevExpress\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\DevExpress\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NAudio.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
